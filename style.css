@@ -3,7 +3,7 @@ nav  ul {
   display: flex;
   justify-content: space-between;
   list-style-type: none;
-  font: Helvetica, sans-serif;
+  font-family: sans-serif;
   margin: 0;
   text-align:justify;
   padding: 18px 10px;
@@ -22,7 +22,7 @@ nav ul a:hover {
 /* Body */
 
 body{
-  font: Helvetica, sans-serif;
+  font-family: sans-serif;
 }
 p, h2 {
   text-align: center;
@@ -136,4 +136,5 @@ nav ul a:hover{
 }
 .social{
   padding-left: 20%;
+}
 }
